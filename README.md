@@ -1,7 +1,7 @@
 # Orpheus Music Transformer
 ## [Announcement] New SOTA multi-instrumental music transformer with advanced ultra-efficient full MIDI encoding, chords tokens and intro/outro tokens
 
-![Orpheus-Artwork-1](https://github.com/user-attachments/assets/bf6d2128-83fa-4414-b185-8edd7681c28f)
+![Orpheus-Music-Transformer-Artwork-1](https://github.com/user-attachments/assets/d358d7d3-ed0a-466a-96ac-58bf1b4ed46a)
 
 ***
 
