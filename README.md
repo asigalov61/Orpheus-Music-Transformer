@@ -1,5 +1,7 @@
 # Orpheus-Music-Transformer
-## A repo for Orpheus Music Transformer paper
+## A repo for [Orpheus Music Transformer](https://huggingface.co/spaces/asigalov61/Orpheus-Music-Transformer) paper
+
+
 
 ***
 
